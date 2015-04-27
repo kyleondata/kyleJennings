@@ -1,4 +1,4 @@
-(funciton(){
+(function(){
 
     var app = angular.module('history', []);
 
