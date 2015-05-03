@@ -5,7 +5,7 @@
     app.directive('passions', function(){
        return {
          restrict: 'E',
-         templateUrl: '/app/templates/passions.html'
+         templateUrl: '/templates/passions.html'
        };
     });
     

@@ -5,7 +5,7 @@
     app.directive('history', function(){
        return {
          restrict: 'E',
-         templateUrl: '/app/templates/history.js'
+         templateUrl: '/templates/history.js'
        };
     });
  

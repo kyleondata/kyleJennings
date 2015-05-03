@@ -5,7 +5,7 @@
     app.directive('header', function(){
        return {
          restrict: 'AE',
-         templateUrl: 'app/templates/header.html'
+         templateUrl: '/templates/header.html'
        };
     });
  
